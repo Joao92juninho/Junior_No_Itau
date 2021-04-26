@@ -1,0 +1,1 @@
+Até agora o curso de git da Gama está bem tranquilo apesar de parecer um pouco confuso de vez em quando.
